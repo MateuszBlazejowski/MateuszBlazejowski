@@ -7,8 +7,8 @@ I am a motivated young person passionate about tackling challenges and creating 
 
 
 <p align="center">
-  <img style="height: 200px; align: center;" src="https://github-readme-stats.vercel.app/api?username=MateuszBlazejowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img style="height: 200px; align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBlazejowski&langs_count=8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
+  <img style="height: 175px; align: center;" src="https://github-readme-stats.vercel.app/api?username=MateuszBlazejowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img style="height: 175px; align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBlazejowski&langs_count=8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
 </p>
 
 ##  Projects:
