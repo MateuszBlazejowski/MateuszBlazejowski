@@ -15,9 +15,9 @@ I am a motivated young person passionate about tackling challenges and creating 
 
 |  Name |  Description | Languages & Technologies |
 | ------- | ----------- | ------------ |
-| [Office Nightmare](https://github.com/Middle-Endian-HackYeah25/OfficeNightmare) | Horror browser game made in under 24 hours, with a team of 6 people in total. Developed as part of the [HackYeah 2025](https://hackyeah.pl/pl/#contact) competition in Kraków. | Godot, GDScript, Github actions|
 | [Ray Tracer](https://github.com/MateuszBlazejowski/RayTracer) | A project inspired by the series of books "Raytracing in one weekend", "Ray Tracing: The Next Week". The project can generate spheres and quadrilaterals of varying sizes and materials using multi-threading, while accurately simulating realistic reflections, light interactions, and surface properties, resulting in highly detailed and visually rich renders. | C# |
 | [Potion Master](https://github.com/MateuszBlazejowski/PotionMaster) | Potion Master is a challenging puzzle game developed using Windows Forms (WinForms), where players must strategically rearrange colored potion segments across vials to solve each puzzle.  | C#, WinForms |
+| [Office Nightmare](https://github.com/Middle-Endian-HackYeah25/OfficeNightmare) | Horror browser game made in under 24 hours, with a team of 6 people in total. Developed as part of the [HackYeah 2025](https://hackyeah.pl/pl/#contact) competition in Kraków. | Godot, GDScript, Github actions|
 | [Galactic Defenders](https://github.com/MateuszBlazejowski/GalacticDefenders) | Galactic Defenders is a retro-style space shooter game inspired by the classic Space Invaders. | C++, WinAPI |
 | [Image Editing Project](https://github.com/MateuszBlazejowski/Image_Editing_Project) | A console-based, multi-threaded C# program that utilizes a native C++ library to load, generate and apply filters to images. Developed as a university project. | C#, C++ |
 | [ Parkly]() | **`[Under Developement]`** Multi-Team project aimed to develop an application for finding and booking parking spots in Warsaw. Part of a larger system for digital nomads. | React, Java, Typescript, HTML, CSS, Figma, Rest API |
