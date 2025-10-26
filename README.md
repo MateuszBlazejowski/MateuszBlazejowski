@@ -37,7 +37,7 @@ I am a motivated young person passionate about tackling challenges and creating 
 
 ### Currently I'm learning:
 
-![java,reactjs,typescript,html,css,R](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=java,reactjs,typescript,html,css,R,docker)
+![java,reactjs,typescript,html,css,R](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=java,reactjs,typescript,html,css,R,docker,postman)
 
 
 ## Contact Me:
