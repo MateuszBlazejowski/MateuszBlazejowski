@@ -27,7 +27,7 @@ I am a motivated young person passionate about tackling challenges and creating 
 
 ### Languages and technologies:
 
-![c,cpp,csharp,dotnet,python,mysql,matlab,gdscript](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=c,cpp,csharp,dotnet,python,mysql,matlab,arduino)
+![c,cpp,csharp,dotnet,python,mysql,matlab,gdscript](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=c,cpp,csharp,dotnet,python,sql,matlab,arduino)
 
 
 ### Software:
