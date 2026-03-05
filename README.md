@@ -6,10 +6,6 @@ STUDENT AT WUT MINI, COMPUTER SCIENCE AND INFORMATION SYSTEMS
 I am a motivated young person passionate about tackling challenges and creating technological wonders with peers. I’m constantly building new projects and learning innovative concepts at my university. In my free time, I enjoy working on bringing my rc plane design to life and participating in Absolute Edge academic circle. 
 
 
-<p align="center">
-  <img style="height: 175px; align: center;" src="https://github-readme-stats.vercel.app/api?username=MateuszBlazejowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img style="height: 175px; align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBlazejowski&langs_count=8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
-</p>
 
 ##  Projects:
 
@@ -20,7 +16,7 @@ I am a motivated young person passionate about tackling challenges and creating 
 | [Office Nightmare](https://github.com/Middle-Endian-HackYeah25/OfficeNightmare) | Horror browser game made in under 24 hours, with a team of 6 people in total. Developed as part of the [HackYeah 2025](https://hackyeah.pl/pl/#contact) competition in Kraków. | Godot, GDScript, Github actions|
 | [Galactic Defenders](https://github.com/MateuszBlazejowski/GalacticDefenders) | Galactic Defenders is a retro-style space shooter game inspired by the classic Space Invaders. | C++, WinAPI |
 | [Image Editing Project](https://github.com/MateuszBlazejowski/Image_Editing_Project) | A console-based, multi-threaded C# program that utilizes a native C++ library to load, generate and apply filters to images. Developed as a university project. | C#, C++ |
-| [ Parkly]() | **`[Under Developement]`** Multi-Team project aimed to develop an application for finding and booking parking spots in Warsaw. Part of a larger system for digital nomads. | React, Java, Typescript, HTML, CSS, Figma, Rest API |
+| [ Parkly]() | Multi-Team project aimed to develop an application for finding and booking parking spots in Warsaw. Part of a larger system for digital nomads. | React, Java, Typescript, HTML, CSS, Figma, Rest API |
 | [Melting Point Prediction]() | **`[Under Developement]`** In a team of 4, under the guidance from PAN scientists, we are developing a ML model to predict the melting point ($T_m$) of organic compounds using molecular descriptors. This project is a solution for the [Kaggle Thermophysical Property competition](https://www.kaggle.com/competitions/melting-point/overview) | Python, Pandas, Jupyter|
 
 ## What I use:
