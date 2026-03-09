@@ -17,8 +17,6 @@ I am a motivated young person passionate about tackling challenges and creating 
 | [Potion Master](https://github.com/MateuszBlazejowski/PotionMaster) | Potion Master is a challenging puzzle game developed using Windows Forms (WinForms), where players must strategically rearrange colored potion segments across vials to solve each puzzle.  | C#, WinForms |
 | [Office Nightmare](https://github.com/Middle-Endian-HackYeah25/OfficeNightmare) | Horror browser game made in under 24 hours, with a team of 6 people in total. Developed as part of the [HackYeah 2025](https://hackyeah.pl/pl/#contact) competition in Kraków. | Godot, GDScript, Github actions|
 | [Galactic Defenders](https://github.com/MateuszBlazejowski/GalacticDefenders) | Galactic Defenders is a retro-style space shooter game inspired by the classic Space Invaders. | C++, WinAPI |
-| [Image Editing Project](https://github.com/MateuszBlazejowski/Image_Editing_Project) | A console-based, multi-threaded C# program that utilizes a native C++ library to load, generate and apply filters to images. Developed as a university project. | C#, C++ |
-
 | [Melting Point Prediction]() | **`[Under Developement]`** In a team of 4, under the guidance from PAN scientists, we are developing a ML model to predict the melting point ($T_m$) of organic compounds using molecular descriptors. This project is a solution for the [Kaggle Thermophysical Property competition](https://www.kaggle.com/competitions/melting-point/overview) | Python, Pandas, Jupyter|
 
 ## What I use:
